@@ -1,0 +1,10 @@
+﻿  Company.cpp
+  LabExercise_3v2.cpp
+C:\Users\daayj\source\repos\LabExercise_3v2\LabExercise_3v2\LabExercise_3v2.cpp(17,22): warning C4267: '=': 'size_t' - 'long' dönüşümü; veri kaybı olabilir
+C:\Users\daayj\source\repos\LabExercise_3v2\LabExercise_3v2\LabExercise_3v2.cpp(20,23): warning C4267: '=': 'size_t' - 'long' dönüşümü; veri kaybı olabilir
+C:\Users\daayj\source\repos\LabExercise_3v2\LabExercise_3v2\LabExercise_3v2.cpp(23,22): warning C4267: '=': 'size_t' - 'long' dönüşümü; veri kaybı olabilir
+C:\Users\daayj\source\repos\LabExercise_3v2\LabExercise_3v2\LabExercise_3v2.cpp(28,22): warning C4267: '=': 'size_t' - 'long' dönüşümü; veri kaybı olabilir
+C:\Users\daayj\source\repos\LabExercise_3v2\LabExercise_3v2\LabExercise_3v2.cpp(31,23): warning C4267: '=': 'size_t' - 'long' dönüşümü; veri kaybı olabilir
+C:\Users\daayj\source\repos\LabExercise_3v2\LabExercise_3v2\LabExercise_3v2.cpp(34,22): warning C4267: '=': 'size_t' - 'long' dönüşümü; veri kaybı olabilir
+  Kod Üretiliyor...
+  LabExercise_3v2.vcxproj -> C:\Users\daayj\source\repos\LabExercise_3v2\x64\Debug\LabExercise_3v2.exe
