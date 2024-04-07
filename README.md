@@ -1,4 +1,4 @@
-this program an answer to a question
+this program an answer to a question(with my own perspective)
 
 Write a program that gets two company information from the user, simulate a merger between these two companies by adding them up into a single company and print out its information. The user will first give the information regarding the two companies in the following format: name as a string, number of employees as an integer, total revenue as an integer, and size as a string.
 
